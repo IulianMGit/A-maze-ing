@@ -1,0 +1,22 @@
+C:\Users\JET\Desktop\mazec\mazec\bin\Debug\mazec.exe.config
+C:\Users\username\IA\C#\bin\Debug\mazec.exe.config
+C:\Users\username\IA\C#\bin\Debug\mazec.exe
+C:\Users\username\IA\C#\bin\Debug\mazec.pdb
+C:\Users\username\IA\C#\obj\Debug\mazec.csprojResolveAssemblyReference.cache
+C:\Users\username\IA\C#\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\username\IA\C#\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\username\IA\C#\obj\Debug\mazec.csproj.GenerateResource.Cache
+C:\Users\username\IA\C#\obj\Debug\mazec.exe
+C:\Users\username\IA\C#\obj\Debug\mazec.pdb
+D:\Facultate\anu 4\Sem 1\IA\C#\obj\Debug\mazec.exe
+D:\Facultate\anu 4\Sem 1\IA\C#\obj\Debug\mazec.pdb
+C:\Users\Iulian\Documents\Projects\A-maze-ing\bin\Debug\mazec.exe.config
+C:\Users\Iulian\Documents\Projects\A-maze-ing\bin\Debug\mazec.exe
+C:\Users\Iulian\Documents\Projects\A-maze-ing\bin\Debug\mazec.pdb
+C:\Users\Iulian\Documents\Projects\A-maze-ing\obj\Debug\mazec.csprojAssemblyReference.cache
+C:\Users\Iulian\Documents\Projects\A-maze-ing\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Iulian\Documents\Projects\A-maze-ing\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Iulian\Documents\Projects\A-maze-ing\obj\Debug\mazec.csproj.GenerateResource.cache
+C:\Users\Iulian\Documents\Projects\A-maze-ing\obj\Debug\mazec.csproj.CoreCompileInputs.cache
+C:\Users\Iulian\Documents\Projects\A-maze-ing\obj\Debug\mazec.exe
+C:\Users\Iulian\Documents\Projects\A-maze-ing\obj\Debug\mazec.pdb
